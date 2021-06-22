@@ -7,7 +7,7 @@ For this assignment, I made an actively working password generator.  This will s
 
 This assignment has helped me in my struggle with grasping javascript, which I am still struggling through.  This was as step in the right direction for sure. The biggest challenge for me was to get my prompts to populate on screen for the user using return statements.  Once I got a handle on that, getting through the rest of the project was much easier.  
 
-Features
+Features:
 Random Password Generation
 Variable choice
 Password size choice
